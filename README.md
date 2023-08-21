@@ -1,5 +1,8 @@
 # Street-Food
-meals are important
+
+AUTHOR [ SHARON KATINDA]
+
+Meals are important and healthy.
 # StreetFood Website
 
 ![StreetFood ]
