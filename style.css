@@ -3,7 +3,19 @@
     scroll-behavior: smooth;
 }
 .homepage {
-    background-color: lightgreen;
+    background-color: #C9ECB5;
+}
+.container{
+    background-color: green;
+
+}
+
+.circle{
+    background-color: #649549;
+    height: 1100px;
+    width: 1100px;
+    border-radius: 50%;
+    background-size: cover;
 }
 
 nav>ul>li {
