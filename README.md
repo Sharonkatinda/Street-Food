@@ -28,5 +28,5 @@ To run this website locally, follow these steps:
 1. Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://
+   git clone https://github.com/Sharonkatinda/Street-Food.git
 
