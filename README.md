@@ -32,4 +32,26 @@ To run this website locally, follow these steps:
 
    ```bash
    git clone https://github.com/Sharonkatinda/Street-Food.git
+   ### Contact Section
+
+## How to Use
+
+1. Open the HTML file, named `index.html`, in a web browser to view the webpage.
+
+## Dependencies
+
+- The webpage uses external styles defined in the `style.css` file. Make sure the `style.css` file is in the same directory as the `index.html` file.
+
+## Credits
+
+- Images used in the slideshow and gallery sections are sourced from external URLs.
+
+## Contact Information
+
+For more information or inquiries, you can contact the website owner using the contact form in the "Contact" section of the webpage.
+
+
+**\\LICENSE**
+
+The copyright license is MIT LICENSE.
 
